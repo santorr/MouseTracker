@@ -1,0 +1,5 @@
+numpy
+pywin32
+PyQt5
+pyautogui
+Pillow
