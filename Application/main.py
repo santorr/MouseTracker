@@ -3,7 +3,7 @@ import sys
 from PyQt5 import QtCore
 from PyQt5.QtGui import QIcon
 from PyQt5.QtWidgets import QApplication
-from views.main_window_style import MainWindow
+from Application.controllers.main_window import MainWindow
 
 if __name__ == "__main__":
     """ Run the application """
